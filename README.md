@@ -1,5 +1,5 @@
-# ad-hoc_analysis
-It is answers for 6 questions in Forex club company for marketing team.
+# Marketing_research
+It is a data research for marketing team. It needs to give advices to marketing team in order to optimize their activity?
 
 Here there is a task. And then there are results. Filles "Answer for task by Denisenko Fyodor.ipynb" and "Answer for task by Denisenko Fyodor.pdf" show the code of research. 
 
